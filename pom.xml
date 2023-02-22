@@ -33,7 +33,7 @@
        <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <version>2.2</version>
+                <version>3.2.2</version>
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
                     <webXml>WebContent\WEB-INF\web.xml</webXml>
