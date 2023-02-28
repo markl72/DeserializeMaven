@@ -22,7 +22,7 @@
     	<version>4.0.1</version>
 	</dependency>
 	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
-
+  </dependencies>
   
    <build>
     <finalName>DeserializeMaven</finalName>
