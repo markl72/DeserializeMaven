@@ -52,7 +52,7 @@ public class Deserial extends HttpServlet {
 		try {
 		    out.println("<p>6. Object input stream readObject()...</p>");   
 			Object o = ois.readObject();
-			out.println("Class: " + o.getClass());
+			//out.println("Class: " + o.getClass());
 		} catch (ClassNotFoundException e) {
 			out.println(e);
 			//response.sendError(400, e.getMessage());
